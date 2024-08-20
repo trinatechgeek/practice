@@ -1,0 +1,6 @@
+Bash commands:
+    pwd: displays current directory
+    ls: lists directory content
+    cd <directory name>: changes to directory name
+
+git commands:
