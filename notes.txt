@@ -4,3 +4,8 @@ Bash commands:
     cd <directory name>: changes to directory name
 
 git commands:
+    git add .: stages changes for commit
+    git commit .m "<commit description>": commits staged changes
+    git push: pushes commits to github repository
+    git status: space shows current git enviroment status
+    git clone <github repository link>: clones github repository
