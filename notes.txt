@@ -9,3 +9,4 @@ git commands:
     git push: pushes commits to github repository
     git status: space shows current git enviroment status
     git clone <github repository link>: clones github repository
+    this is a test
