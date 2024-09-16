@@ -10,4 +10,4 @@ git commands:
     git status: space shows current git enviroment status
     git clone <github repository link>: clones github repository
     this is a test
-    this is my second test
+    this is trinas second test
